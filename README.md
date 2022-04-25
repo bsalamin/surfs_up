@@ -12,6 +12,7 @@ The results showed that:
 * The maximum temperature was in the mid-80s for both months, as well.
 * The minimum temperature was 8 degrees lower in December, at a brisk 56 degrees F.
 * The standard deviation – i.e., the average variance in temperature – is only slightly greater in December, by less than 0.5 degrees F.
+
 ![December_temps](https://user-images.githubusercontent.com/100387078/165133007-6e4f9c98-6990-4717-82b1-ea2c7e4c7ef6.png)![June_temps](https://user-images.githubusercontent.com/100387078/165133039-9849a9c8-a740-4bb1-9a41-82cf685fd870.png)
 
 ## Summary
